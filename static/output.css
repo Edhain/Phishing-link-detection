@@ -1,0 +1,24 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url('/static/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff; /* Change text color to white for better readability on a dark background */
+}
+h1 {
+    background-color: rgba(0, 73, 230, 0.8); /* Semi-transparent blue */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+p {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #000; /* Black text for readability */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
